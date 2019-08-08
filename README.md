@@ -1,5 +1,6 @@
 # Coursera3-Project
 Getting and Cleaning Data Course Project
+
 Author: Gur Sartaj Singh
 
 ## Goal of the Project
